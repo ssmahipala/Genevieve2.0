@@ -1,0 +1,3 @@
+Skipped images:
+image_22719.png
+image_29758.png
